@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspire.Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.1.0" />
+    <PackageReference Include="CommunityToolkit.Aspire.OllamaSharp" Version="9.2.1-beta.207" />	
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.VectorData.Abstractions" Version="9.0.0-preview.1.25078.1" />
+    <PackageReference Include="Microsoft.SemanticKernel.Connectors.InMemory" Version="1.40.0-preview" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ServiceDefaults\ServiceDefaults.csproj" />
+  </ItemGroup>
+
+</Project>
