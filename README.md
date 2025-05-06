@@ -1,5 +1,5 @@
 ## .NET Aspire and GenAI Develop Distributed Architectures 2025
-https://www.udemy.com/course/net-aspire-and-genai-develop-distributed-architectures/?couponCode=APRI25
+https://www.udemy.com/course/net-aspire-and-genai-develop-distributed-architectures/?couponCode=MAYY25
 
 Develop AI-Powered Distributed Architectures using .NET Aspire and GenAI to develop EShop Catalog and Basket microservices integrate with Backing services including PostgreSQL, Redis, RabbitMQ, Keycloak, Ollama and Semantic Kernel to Create Intelligent E-Shop Solutions.
 
